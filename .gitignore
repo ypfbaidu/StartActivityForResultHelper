@@ -1,0 +1,25 @@
+/*.iml
+/.gradle
+/.idea
+app/app.iml
+app/build
+/build
+config/config*
+/issue.info
+/local.properties
+patient-data-sdk/build
+patient-data-sdk/gradle
+patient-data-sdk/local.properties
+patient-data-sdk/patient-data-sdk.iml
+patient-pay-lib/build
+patient-pay-lib/patient-pay-lib.iml
+/patient.iml
+/upload.py
+vitamio/build
+vitamio/vitamio.iml
+app/src/main/assets/config_*
+.DS_Store .DS_Store?
+freeline.py
+freeline
+sharesdk/build
+sharesdk/sharesdk.iml
